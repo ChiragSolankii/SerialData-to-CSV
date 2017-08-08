@@ -1,7 +1,7 @@
 # SerialData-to-CSV
 This file stores serial data to CSV file.Basically,When it needs to analyse variable value of perticuler serial data, it works fine.
 
-Here are steps:
+## Here are steps:
 
 1)Connect serial device and run it.You will get list of connected PORT.
 
